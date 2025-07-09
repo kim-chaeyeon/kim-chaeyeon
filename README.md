@@ -6,5 +6,6 @@
   src="https://render.gitanimals.org/farms/kim-chaeyeon"
   width="800"
   height="300"
+    align= "center"
 />
 </a>
